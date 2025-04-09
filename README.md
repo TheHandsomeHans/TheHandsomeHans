@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on nothing :D
+- 🌱 I’m currently learning C++/C#, MQL4/5, Python
+- 📫 How to reach me: That will be a secret..
+- ⚡ Fun fact: ...
 
 <!--
 **TheHandsomeHans/TheHandsomeHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
